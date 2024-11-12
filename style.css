@@ -3,6 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Host Grotesk", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -41,6 +42,7 @@ p{
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 20;
 }
 
 .categoria-videos img {
@@ -55,9 +57,4 @@ p{
 
 .categoria h2 {
     color:rgb(255, 35, 60);
-}
-
-.categoria  {
-    margin-bottom: 100px;
-    margin-top: 20;
 }
