@@ -56,3 +56,8 @@ p{
 .categoria h2 {
     color:rgb(255, 35, 60);
 }
+
+.categoria  {
+    margin-bottom: 100px;
+    margin-top: 20;
+}
