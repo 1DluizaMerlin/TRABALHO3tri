@@ -53,9 +53,9 @@ p{
 
 .categoria-lidos img:hover {
     opacity: 1.0;
-    border: 2px solid purple;
+    border: 2px solid white;
 }
 
 .categoria h2 {
-    color:rgb(255, 35, 60);
+    color:rgb(218, 35, 255);
 }
