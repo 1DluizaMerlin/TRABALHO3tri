@@ -45,12 +45,12 @@ p{
     margin-top: 20;
 }
 
-.categoria-videos img {
+.categoria-lidos img {
     opacity: 0.5;
     height: 200px;
 }
 
-.categoria-videos img:hover {
+.categoria-lidos img:hover {
     opacity: 1.0;
     border: 2px solid purple;
 }
